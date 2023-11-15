@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me vophananhquan@gmail.com
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anhquan.vophan.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anhquanvp2612) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anhquan.vophan.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhquanvp2612) 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=quanvparadium&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=quanvparadium&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quanvparadium&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quanvparadium&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
