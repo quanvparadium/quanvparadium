@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at [https://github.com/quanvparadium](https://github.com/quanvparadium?tab=repositories)
 
 - 📫 How to reach me vophananhquan@gmail.com
-- ⚡  My Curriculum Vitae: [CV]()
+- ⚡  My Curriculum Vitae: [CV](https://github.com/quanvparadium/quanvparadium/tree/main/assets/vitae)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anhquan.vophan.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhquanvp2612) 
